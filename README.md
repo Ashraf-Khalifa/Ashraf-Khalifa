@@ -14,7 +14,8 @@
 📫 Let's connect! Reach me at:
 📧 <a href="mailto:ashrafrkhalifa@gmail.com" class="button">Email</a>
 
-🌐 Find me on LinkedIn: <a href="https://www.linkedin.com/in/ashrafrkhalifa/" style="background-color: blue; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">LinkedIn</a>
+🌐 Find me on LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashrafrkhalifa/)
+
 
 
 
