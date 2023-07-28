@@ -1,6 +1,5 @@
                                                            👋 Hello, I'm Ashraf Khalifa!
-                                                      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]  (https://www.linkedin.com/in/ashrafrkhalifa/)
-
+                                                      
 
 🚀 Full-Stack & Mobile Developer | Passionate about creating innovative web and mobile applications that deliver exceptional user experiences.
 
@@ -14,7 +13,8 @@
 
 📫 Let's connect! Reach me at:
 📧 <a href="mailto:ashrafrkhalifa@gmail.com" class="button">Email</a>
-🌐 Find me on LinkedIn:
+🌐 Find me on LinkedIn:[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)]  (https://www.linkedin.com/in/ashrafrkhalifa/)
+
 
 
 
